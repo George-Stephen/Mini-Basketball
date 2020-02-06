@@ -20,6 +20,7 @@ header{
 #tabs{
     background-color: gray;
     padding: 40px;
+    border-radius: 20px;
     
 }
 button{
@@ -49,4 +50,16 @@ button{
     padding-left: 20px;
     font-size: 20px;
 }
-
+li{
+    text-align: center;
+    font-size: 50px;
+    list-style-type: none;
+}
+#contact{
+    background-color: gray;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.social{
+    float: right;
+}
