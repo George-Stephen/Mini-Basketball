@@ -11,14 +11,32 @@ header{
     background-color: white;
 }
 #tabs a{
-    padding-right: 20px;
     color: white;
     text-align: center;
-    padding-left: 50px;
-    font-size: 15px;
+    font-size: 20px;
+    padding: 20px;
 }
 #tabs{
     background-color: black;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding: 40px;
+    
 }
+button{
+    color: white;
+    font-size: 25px;
+    background-color: black;
+
+}
+#sale{
+    padding-left: 100px;
+    padding-top: 150px;
+    float: center;
+}
+#sale b{
+    font-size: 50px;
+}
+#image{
+    float:right;
+    padding-right: 100px;
+}
+
