@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+#logo{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+.logo{
+    background-color: white;
+    padding-top: 50px;
+}
